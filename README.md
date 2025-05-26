@@ -32,3 +32,6 @@ Here machine learning is applied in 'Bank Marketing' dataset to predict whether 
 A few more things are planned to be done in the near future. Like to make the imbalance dataset into a balanced one by using data oversampling techniques like SMOTE, Synthetic data could've been really helpful. A little more emphasis on EDA by removing more outliers, and in terms of neural network, the right amount of neurons in all the layers could've really boosted the accuracy score even more. While the current state is promising and pretty decent as well, there's always room for improvement, and further iterations will aim to make the model even more accurate.
 
 `A report for this project has also been attached. You can go through that to have a better understanding.`
+
+
+`Soon, the model will be deployed. Stay tuned for that`
