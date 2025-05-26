@@ -1,5 +1,5 @@
 # What's the use case:
-Here machine learning is applied in 'Bank Marketing' dataset to predict whether a person will purchase term deposit or not which is the target column 'y' here. The project's main task is to predict that target value (yes/no) if given unknown data. Based on the training data how well can it perform and how accurate is it. Well all the models performed well and had an accuracy of 90.734% (best). 
+Here machine learning is applied in 'Bank Marketing' dataset to predict whether a person will purchase term deposit or not which is the target column 'y' here. The project's main task is to predict that target value (yes/no) if given unknown data. Based on the training data how well can it perform and how accurate is it. Well all the models performed pretty well and among them Logistic Regression had an accuracy of 90.734% (best). 
 
 
 # What's the process:
